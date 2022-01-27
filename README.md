@@ -1,2 +1,3 @@
 # Hello Word
- First versioned repository
+ First versioned repository created on teh Guanabara's course. 
+ 
